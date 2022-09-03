@@ -4,4 +4,7 @@ This project was developed as a way to keep track of my expenses, allowing me to
 **Dataset Used:** In this dashboard, data is pulled from income and expense statements from January 2022 to July 2022, represented in 345 rows and 10 columns.
 
 **Insight acquired from the dataset:**
-<br/> Hierarchial representation of various streams of income and expenditure categories.
+<br/> * Hierarchial representation of various streams of income and expenditure categories.
+<br/> * A summary of monetary inflows and outflows
+<br/> * Weekly breakdown of expenses by categories
+<br/> * Can toggle between income and expenses visualized on a monthly basis with ease
