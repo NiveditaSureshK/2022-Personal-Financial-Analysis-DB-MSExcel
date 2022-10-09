@@ -41,9 +41,9 @@ Month and categories column
 ## Tools Used
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-- Utilized **MS Excel** to categorize income and expenditure reports into a detailed pivot table to develop an improved financial strategy that resulted in 15% savings.
+- Utilized **MS Excel** to categorize income and expenditure reports into a detailed pivot table to develop an ***improved financial strategy that resulted in 15% savings***.
 - Administered **IF**, **COUNTA**, and **VLOOKUP** function to summarize and project monthly monetary inflows and outflows.
-- Automated manual filter removal using **macros** and **VBA** to reduce budget preparation time by 5%.
+- Automated manual filter removal using **macros** and **VBA** to ***reduce budget preparation time by 5%***.
 
 ## Overview
 
